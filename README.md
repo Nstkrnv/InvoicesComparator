@@ -5,6 +5,8 @@ The program compares an xlsx and pdf invoices; creates a new xlsx file with visu
 
 in root directory:
 
-mvn compile
-mnv package
-mvn install
+mvn compile;
+
+mnv package;
+
+mvn install;
